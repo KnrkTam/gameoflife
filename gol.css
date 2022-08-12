@@ -1,0 +1,69 @@
+.text-center{
+    text-align: center;
+    font-family: 'Righteous', cursive;
+    color: white;
+    background-color: #000050;
+    margin-bottom: 60px;
+}
+
+.buttons{
+    display: flex; 
+    justify-content: center;  
+    margin-top: 50px;
+}
+
+button{
+    margin: 10px;
+}
+.btn:hover{
+    background-color: white !important;
+    color: black;
+
+}
+
+#canvas{
+    text-align: center;
+}
+body{
+    background-color: gray;
+    color: white;
+}
+
+.footer{
+    font-size: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-bottom: 10px;
+
+}
+
+h2{
+    padding-top: 30px;
+    font-weight: 800;
+}
+
+.titletext{
+    border-bottom: white 5px solid;  
+    font-family: 'Righteous', cursive;
+}
+
+
+.btn-outline-primary{
+    width: 250px;
+    margin:20px;
+    background-color: white;
+    text-align: left;
+    font-size: 20px;
+
+}
+
+#myRange{
+    width: 200px;
+    height: 20px;
+}
+
+
+.frameIndicator{
+   font-size: 20px;
+   margin: 10px;
+}
